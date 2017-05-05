@@ -1,8 +1,14 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "name": "taerp/finance",
+    "description": "Tech Advance ERP system - financial module",
+    "keywords": ["erp", "laravel", "finance"],
     "license": "MIT",
+    "authors": [
+        {
+            "name": "methodmain",
+            "email": "methodmain@yahoo.com"
+        }
+    ],
     "type": "project",
     "require": {
         "php": ">=5.5.9",
